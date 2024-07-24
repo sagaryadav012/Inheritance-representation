@@ -1,6 +1,5 @@
-package com.lld.ecommercedemo.JoinedTable;
+package com.lld.inheritancerepresentation.JoinedTable;
 
-import com.lld.ecommercedemo.MappedSuperClass.BaseModel;
 import jakarta.persistence.*;
 
 @Entity(name = "jt_users")

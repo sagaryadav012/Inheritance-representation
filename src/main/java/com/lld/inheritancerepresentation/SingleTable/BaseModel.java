@@ -1,4 +1,4 @@
-package com.lld.ecommercedemo.SingleTable;
+package com.lld.inheritancerepresentation.SingleTable;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

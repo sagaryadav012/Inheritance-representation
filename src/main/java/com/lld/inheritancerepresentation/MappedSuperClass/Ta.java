@@ -1,4 +1,4 @@
-package com.lld.ecommercedemo.MappedSuperClass;
+package com.lld.inheritancerepresentation.MappedSuperClass;
 
 import jakarta.persistence.Entity;
 
